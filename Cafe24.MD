@@ -1,6 +1,6 @@
-# Cafe24에 대한 정보를 다룬다.
+# Cafe24에 대한 정보를 다룬다. ([출처: Cafe24corp](https://www.cafe24corp.com/))
 
-## Cafe24 회사 소개 ([출처: Cafe24corp](https://www.cafe24corp.com/))
+## Cafe24 회사 소개 
 
 >전자상거래 플랫폼 고도화로 글로벌 온라인 비즈니스 생태계를 이끌고 있습니다.
 
