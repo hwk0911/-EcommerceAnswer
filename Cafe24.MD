@@ -98,5 +98,5 @@
     
     
 ## 글로벌 카페 24
-![](!https://img.cafe24.com/img/simplexi/service/img_global.gif)
+![](https://img.cafe24.com/img/simplexi/service/img_global.gif)
 
