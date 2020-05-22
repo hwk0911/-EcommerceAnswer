@@ -96,3 +96,7 @@
   * 사업 영역 확장  
     인터넷 중심의 다양한 사업분야 모색  
     
+    
+## 글로벌 카페 24
+![](!https://img.cafe24.com/img/simplexi/service/img_global.gif)
+
